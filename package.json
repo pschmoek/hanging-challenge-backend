@@ -15,7 +15,7 @@
     "node": ">=9.0.0"
   },
   "dependencies": {
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "express-bearer-token": "^2.1.0",
     "fb": "^2.0.0",
     "helmet": "^3.9.0",
